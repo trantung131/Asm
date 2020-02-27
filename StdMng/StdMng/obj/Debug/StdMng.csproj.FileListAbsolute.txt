@@ -1,0 +1,6 @@
+C:\Users\FX504GD\source\repos\StdMng\StdMng\bin\Debug\StdMng.exe.config
+C:\Users\FX504GD\source\repos\StdMng\StdMng\bin\Debug\StdMng.exe
+C:\Users\FX504GD\source\repos\StdMng\StdMng\bin\Debug\StdMng.pdb
+C:\Users\FX504GD\source\repos\StdMng\StdMng\obj\Debug\StdMng.csprojAssemblyReference.cache
+C:\Users\FX504GD\source\repos\StdMng\StdMng\obj\Debug\StdMng.exe
+C:\Users\FX504GD\source\repos\StdMng\StdMng\obj\Debug\StdMng.pdb
